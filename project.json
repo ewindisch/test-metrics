@@ -1,0 +1,8 @@
+{
+  "name": "test-metrics",
+  "description": "",
+  "memory": 128,
+  "timeout": 30,
+  "role": "arn:aws:iam::554407330061:role/test-durations_lambda_function",
+  "environment": {}
+}
